@@ -11,5 +11,5 @@ title: Opdrachtomschrijving
 
 ## Teamleden
 
-- «Voornaam» «Familienaam»
-- «Voornaam» «Familienaam»
+- Jeroen Hiel   
+- Aurélie Coigniez
