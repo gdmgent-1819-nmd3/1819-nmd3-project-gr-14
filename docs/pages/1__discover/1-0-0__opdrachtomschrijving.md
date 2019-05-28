@@ -12,4 +12,4 @@ title: Opdrachtomschrijving
 ## Teamleden
 
 - Jeroen Hiel   
-- Aurélie Coigniez 
+- Aurelie Coigniez 
