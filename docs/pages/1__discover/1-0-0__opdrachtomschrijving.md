@@ -4,7 +4,7 @@ permalink: discover/opdrachtomschrijving/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Opdracht
+title: Opdrachtomschrijving
 ---
 
 ## Opdracht
