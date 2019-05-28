@@ -4,7 +4,7 @@ permalink: discover/opdrachtomschrijving/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Opdrachtomschrijving
+title: Opdracht
 ---
 
 ## Opdracht
@@ -12,4 +12,4 @@ title: Opdrachtomschrijving
 ## Teamleden
 
 - Jeroen Hiel   
-- Aurélie Coigniez
+- Aurélie Coigniez 
