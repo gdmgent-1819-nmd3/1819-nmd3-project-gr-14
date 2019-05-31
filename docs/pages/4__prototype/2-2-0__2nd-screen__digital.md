@@ -6,5 +6,5 @@ published: true
 # ─────────────────────
 title: Digital Prototype
 ---
-<p class="top"> Hieronder vindt u een volledig functioneel prototype van de app. U kan dit bedienen met de knoppen op het gesimuleerde scherm of met de pijltjestoetsen van uw toetsenbord.</p>
+<p class="top"> Hieronder vindt u een volledig functioneel prototype van het 2de scherm (grote tablet op domein). U kan dit bedienen met de knoppen op het gesimuleerde scherm of met de pijltjestoetsen van uw toetsenbord.</p>
 <iframe width="911" height="683" src="https://xd.adobe.com/embed/123ed10a-dcde-44b1-4b30-8287021e4243-640f/" frameborder="0" allowfullscreen></iframe>
