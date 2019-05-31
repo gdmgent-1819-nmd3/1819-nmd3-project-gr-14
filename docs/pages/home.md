@@ -7,7 +7,7 @@ permalink: home
 title: Opdracht NMD-III
 ---
 
-##Wie zijn we?
+Wie zijn we?
 ------------
 
 <p>Jeroen Hiel en Aurelie Coigniez, 2CMO-d</p>
