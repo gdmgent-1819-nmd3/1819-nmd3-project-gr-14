@@ -6,4 +6,20 @@ published: true
 # ─────────────────────
 title: Formulieren
 ---
+
+##Inloggen
+
+<form>
+    <img src="../../../assets/images/logo.png" class="logo_form">
+
+</form>
+
+##Registreren
+
 <form></form>
+
+##Instellingen
+
+<form></form>
+
+
