@@ -9,16 +9,29 @@ title: Formulieren
 
 <h2>Inloggen</h2>
 
-<form>
-<h1>Log in</h1>
+<form class="inlog">
+<h1 class="formtitle">Log in</h1>
+<p type="name">
+    <input placeholder="username" class="veld">
+</p>
+<p type="password">
+    <input placeholder="password" class="veld">
+</p>
+<button type="button" class="register">register</button>
+<button type="button" class="login">log in</button>
 </form>
 
 <h2>Registreren</h2>
 
-<form></form>
+<form class="regist">
 
-<h2>Instellingen</h2>
+</form>
 
-<form></form>
+<h2>Specificaties</h2>
+
+<form class="specs">
+
+</form>
+
 
 

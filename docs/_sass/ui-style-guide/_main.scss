@@ -49,5 +49,64 @@ form{
     height: 700px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     margin-left: 3% !important;
+    
+}
+
+.formtitle{
+    padding-top: 280px;
+    color: white !important;
+    margin-left: 44%;
+    font-size: medium;
+    font-weight: 100;
+
+}
+
+.veld{
+    height:50px;
+    width: 200px;
+    margin-left: 40%;
+    padding-left: 5px;
+    margin-top: 20px;
+    border-color:#33B568; 
+    border-style: solid !important;
+    color:#33B568 !important;
+}
+
+.register{
+    margin-top:20px;
+    margin-left: 23%;
+    width: 25.5%;
+}
+
+.login{
+    margin-top:20px;
+    margin-left: 5px;
+    width: 25.5%;
+}
+
+button{
+    background-color: #368958 !important;
+    color: white;
+    border-style:none !important;
+    padding: 3px;
+}
+
+button:hover{
+    background-color: #767C5B !important;
+}
+
+.inlog{
     background-image: url("./../../assets/images/formback.jpg");
+    background-repeat: no-repeat !important;
+}
+
+.regist{
+    background-image: url("./../../assets/images/formback2.jpg");
+    background-repeat: no-repeat !important;
+
+}
+
+.specs{
+    background-image: url("./../../assets/images/formback3.jpg");
+    background-repeat: no-repeat !important;
 }
