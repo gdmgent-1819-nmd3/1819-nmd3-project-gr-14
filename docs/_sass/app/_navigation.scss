@@ -23,7 +23,7 @@ $dark: var(--dark);
   }
 
   &.active {
-    background-color: $primary;
+    background-color: #33B568 !important;
     color: $light;
   }
 

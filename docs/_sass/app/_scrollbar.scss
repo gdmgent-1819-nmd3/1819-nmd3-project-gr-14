@@ -10,11 +10,11 @@ $scrollbar-width: .4em;
     // -webkit-box-shadow: none;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: $primary;
+  background-color: #33B568;
   border-radius: $scrollbar-width / 2;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: $primary;
+  background-color: #33B568;
 }
 
 .gdm-scrollbar {
