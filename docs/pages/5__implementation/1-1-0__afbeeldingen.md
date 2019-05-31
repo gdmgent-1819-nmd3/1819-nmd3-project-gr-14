@@ -31,4 +31,4 @@ title: Afbeeldingen
 
 <p>Doorheen de gehele stijl word een driehoekig gradient gebruikt wat wederom de strakke stijl van wiha beklemtoont.</p>
 
-<img src="../../../assets/images/illus.jpg">
+<img src="../../../assets/images/illus.jpg" class="icon">
