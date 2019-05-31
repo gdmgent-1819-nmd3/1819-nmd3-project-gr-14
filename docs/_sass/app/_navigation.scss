@@ -7,7 +7,7 @@ $light: var(--light);
 $dark: var(--dark);
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: white;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
