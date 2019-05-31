@@ -20,6 +20,8 @@ title: Afbeeldingen
 
 <p>Eveneens om deze cleane stijl te accentueren worden rechtlijnige, hoekige symbolen en iconen gebruikt. Deze iconen zijn simpel en duidelijk voor iedereen binnen onze doelgroep. Door ze voldoende witruimte te geven worden ze op een logische wijze afgebeeld en wordt het snel duidelijk waarvoor ze dienen.</p>
 
+<p> De ronde vormen van de tijdlijn en het logo dienen als blikvanger en breken de rest van de stijl om de aandacht en spanning erin te houden.</p>
+
 ## Illustraties
 
 <p>Doorheen de gehele stijl word een driehoekig gradient gebruikt wat wederom de strakke stijl van wiha beklemtoont.</p>
