@@ -7,10 +7,6 @@ published: true
 title: Style Tiles
 ---
 
-> ## Wat is een style tile?
-> <http://styletil.es/>{:}
-
-
 ## Gekozen
 
 <img src="assets/images/tile.png" class="tile">
