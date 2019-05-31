@@ -13,6 +13,8 @@ title: Style Tiles
 
 ## Gekozen
 
+<img src="assets/images/tile.png">
+
 ## Alternatief A
 
 ## Alternatief B
