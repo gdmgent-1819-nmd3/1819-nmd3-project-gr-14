@@ -7,7 +7,7 @@ published: true
 title: How might we …
 ---
 
-<p>De eerste vraag waar rond we werken bij dit project is <strong>hoe we
+<p class="top">De eerste vraag waar rond we werken bij dit project is <strong>hoe we
 cultuur en geschiedenis meer kunnen integreren </strong>op de
 kemmelberg.</p>
 

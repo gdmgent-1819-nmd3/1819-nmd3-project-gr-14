@@ -7,7 +7,7 @@ published: true
 title: Elevator Pitch
 ---
 
-<p>Ons project is gefocust op cultuur en geschiedenis liefhebbers.
+<p class="top">Ons project is gefocust op cultuur en geschiedenis liefhebbers.
 Het provinciaal domein dat we hiervoor kregen is de Kemmelberg.
 Deze plek staat vooral bekend als trekpleister voor wielertoeristen/
 hobbyisten en sportfanatiekelingen. Het sportieve met het culturele combineren leek ons 
