@@ -28,7 +28,9 @@ $dark: var(--dark);
     color: $light !important;
   }
 
-  &.disabled {}
+  &.disabled {
+    color: #244e36 !important;
+  }
 }
 
 .nav-link a{
@@ -39,9 +41,6 @@ $dark: var(--dark);
   color:rgb(26, 243, 113) !important;
 }
 
-.nav-link .disabled{
-  color: #368958 !important;
-}
 
 .gdm-nav-level {
   &-home {
