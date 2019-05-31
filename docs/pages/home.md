@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?
+<p>Jeroen Hiel, 2CMO-d</p>
+<p>Aurelie Coigniez, 2CMO-?</p>

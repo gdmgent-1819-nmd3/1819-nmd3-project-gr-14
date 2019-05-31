@@ -12,7 +12,9 @@ Het provinciaal domein dat we hiervoor kregen is de Kemmelberg.
 Deze plek staat vooral bekend als trekpleister voor wielertoeristen/
 hobbyisten en sportfanatiekelingen. Het sportieve met het culturele combineren leek ons 
 dus ideaal voor deze onderneming. Naast de sportieve kant neemt deze berg dus veel 
-geschiedenis en cultuur met zich mee. Om dit op een interactieve manier over te brengen 
+geschiedenis en cultuur met zich mee.</p>
+
+<p>Om dit op een interactieve manier over te brengen 
 ontwerpen we een app die gebruiksvriendelijk is voor jong en oud en dus
 enerzijds gebruiksvriendelijk moet zijn. Anderzijds mag het
 niet te saai worden en moetz het in het oog springen.</p>
@@ -39,8 +41,9 @@ doelgroep.</p>
 
 <p>Zo definieer je wat je uiteindelijk te zien krijgt door je
 camera wanneer je de AR functie gebruikt. Zo krijg je de info eerder
-in toneelvorm wanneer je de gezinsoptie aanduidt.
-Centraal gelegen in het domein vind je een kiosk met daarbij een
+in toneelvorm wanneer je de gezinsoptie aanduidt.</p>
+
+<p>Centraal gelegen in het domein vind je een kiosk met daarbij een
 groot interactief touchscreen en een eerste AR-sticker die beide
 meer info bieden over de app en de verscheidene opties. Aan de
 kiosk kan je eveneens vragen ivm met de installatie van de app.
