@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
-<div id="kleur" class="kleur1"></div>
+<img src="assets/images/kleur.png">

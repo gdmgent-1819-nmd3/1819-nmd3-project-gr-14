@@ -7,7 +7,8 @@ published: true
 title: Typografie
 ---
 
-## Lettertypes *(fonts)*
+## Lettertype *(font)*
+<p> Wiha gebruikt Aktiv grotesk als lettertype omdat dit volledig aansluit bij de moderne strakke stijl. Om zaken te beklemtonen gebruiken we uiteraard <strong>bold.</strong></p>
 
 ## Koppen *(headings)*
 
