@@ -9,6 +9,9 @@ title: Navigatie
 
 ## Knoppen
 
+<button class="btn">Log in</button>
+<button class="btn2">Register</button>
+
 ## Koppelingen
 
 ## Menu's

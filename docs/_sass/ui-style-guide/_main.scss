@@ -161,3 +161,37 @@ button:hover{
     background-image: url("./../../assets/images/formback3.jpg");
     background-repeat: no-repeat !important;
 }
+
+.btn {
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn2 {
+    border-color:#368958 !important; 
+    border-style: solid !important;
+    color:#368958;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: white !important;
+}
+
+.btn2:hover {
+    border-color:#767C5B !important; 
+    border-style: solid !important;
+    color: #767C5B !important;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: white !important;
+}
