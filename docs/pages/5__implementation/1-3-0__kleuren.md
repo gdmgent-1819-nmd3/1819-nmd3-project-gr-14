@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+<div id="kleur" class="kleur1"></div>
