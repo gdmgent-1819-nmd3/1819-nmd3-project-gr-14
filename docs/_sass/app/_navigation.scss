@@ -29,7 +29,7 @@ $dark: var(--dark);
   }
 
   &.disabled {
-    color: #244e36 !important;
+    color: #347952 !important;
     font-weight: bold !important;
   }
 }
@@ -38,7 +38,7 @@ $dark: var(--dark);
   color:#33B568 !important;
 }
 
-.nav-link a:hover{
+.nav-link:hover{
   color:rgb(26, 243, 113) !important;
 }
 
