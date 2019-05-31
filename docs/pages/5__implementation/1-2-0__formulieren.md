@@ -7,18 +7,18 @@ published: true
 title: Formulieren
 ---
 
-##Inloggen
+<h2>Inloggen</h2>
 
 <form>
     <img src="../../../assets/images/logo.png" class="logo_form">
 
 </form>
 
-##Registreren
+<h2>Registreren</h2>
 
 <form></form>
 
-##Instellingen
+<h2>Instellingen</h2>
 
 <form></form>
 
