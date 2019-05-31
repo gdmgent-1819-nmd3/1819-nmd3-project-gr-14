@@ -28,6 +28,10 @@ $dark: var(--dark);
     color: $light !important;
   }
 
+  &.hover {
+    color: #95bcbf !important;
+  }
+
   &.disabled {
     color: #347952 !important;
     font-weight: bold !important;
