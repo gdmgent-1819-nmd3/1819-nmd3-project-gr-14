@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
-<img src="assets/images/kleur.png">
+<img src="../../../assets/images/kleur.png">
