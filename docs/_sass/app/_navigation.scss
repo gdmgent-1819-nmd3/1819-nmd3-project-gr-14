@@ -32,11 +32,15 @@ $dark: var(--dark);
 }
 
 .nav-link a{
-  color: #368958 !important;
+  color:#33B568 !important;
 }
 
 .nav-link a:hover{
-  color:#33B568 !important;
+  color:rgb(26, 243, 113) !important;
+}
+
+.nav-link .disabled{
+  color: #368958 !important;
 }
 
 .gdm-nav-level {
