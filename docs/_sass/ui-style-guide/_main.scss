@@ -61,6 +61,33 @@ form{
 
 }
 
+.formtitle2{
+    padding-top: 280px;
+    color: white !important;
+    margin-left: 23%;
+    font-size: medium;
+    font-weight: 100;
+
+}
+
+.formtitle3{
+    padding-top: 75px;
+    color: #33B568 !important;
+    margin-left: 23%;
+    font-size: medium;
+    font-weight: 100;
+
+}
+
+.formtitle4{
+    color: #33B568 !important;
+    margin-left: 11%;
+    margin-top:40px;
+    margin-bottom: -15px;
+    font-size: medium;
+    font-weight: 100;
+}
+
 .veld{
     height:50px;
     width: 200px;
@@ -70,6 +97,30 @@ form{
     border-color:#33B568; 
     border-style: solid !important;
     color:#33B568 !important;
+}
+
+.veld2{
+    height:50px;
+    width: 200px;
+    margin-left: 23%;
+    padding-left: 5px;
+    margin-top: 20px;
+    border-color:white; 
+    border-style: solid !important;
+    color: #33B568 !important;
+    background-color: none;
+}
+
+.veld3{
+    height:50px;
+    width: 300px;
+    margin-left: 11%;
+    padding-left: 5px;
+    margin-top: 20px;
+    border-color:white; 
+    border-style: solid !important;
+    color: #33B568 !important;
+    background-color: none;
 }
 
 .register{
