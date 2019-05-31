@@ -7,9 +7,6 @@ published: true
 title: Opdrachtomschrijving
 ---
 
-## Opdracht
+## Wiha interactive
 
-## Teamleden
-
-- Jeroen Hiel   
-- Aurelie Coigniez 
+<p>door Aurelie Coigniez en Jeroen Hiel</p> 
