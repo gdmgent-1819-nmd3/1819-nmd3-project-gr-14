@@ -28,10 +28,6 @@ $dark: var(--dark);
     color: $light !important;
   }
 
-  &.hover {
-    color: #95bcbf !important;
-  }
-
   &.disabled {
     color: #347952 !important;
     font-weight: bold !important;
@@ -43,7 +39,7 @@ $dark: var(--dark);
 }
 
 .nav-link:hover{
-  color:rgb(26, 243, 113) !important;
+  color: #95bcbf !important;
 }
 
 
