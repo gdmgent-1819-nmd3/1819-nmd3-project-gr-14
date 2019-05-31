@@ -31,6 +31,14 @@ $dark: var(--dark);
   &.disabled {}
 }
 
+.nav-link a{
+  color: #368958 !important;
+}
+
+.nav-link a:hover{
+  color:#33B568 !important;
+}
+
 .gdm-nav-level {
   &-home {
     padding-left: $nav-link-indentation-base;
