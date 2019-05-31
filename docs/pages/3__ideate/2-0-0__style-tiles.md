@@ -9,7 +9,7 @@ title: Style Tiles
 
 ## Gekozen
 
-<img src="assets/images/tile.png" class="tile">
+<img src="../../assets/images/tile.png" class="tile">
 
 ## Alternatief A
 
