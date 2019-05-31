@@ -11,9 +11,7 @@ title: Afbeeldingen
 
 <p>Om een universele stijl te creeëren werden de foto's vaak hoekig of in vierkanten geplaatst, om zo nog meer het flat-design geheel te versterken.</p>
 <p>De foto's worden (voornamelijk op de site) gebruikt als buttons. Hierbij word een groene overlay gebruikt als hover status.</p>
-<a href="#" class="foto"><img src="../../../assets/images/1.jpg"></a>
-<a href="#" class="foto"><img src="../../../assets/images/2.jpg"></a>
-<a href="#" class="foto"><img src="../../../assets/images/3.jpg"></a>
+<a href="#" class="foto"></a>
 
 
 ## Iconen
