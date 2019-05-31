@@ -11,4 +11,5 @@ Wie zijn we?
 ------------
 
 <p>Jeroen Hiel en Aurelie Coigniez, 2CMO-d</p>
-<img src="assets/images/jeroen.png">
+<img src="assets/images/jeroen.png" class="profpic">
+<img src="assets/images/aurelie.png" class="profpic">
