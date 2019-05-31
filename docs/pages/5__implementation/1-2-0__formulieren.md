@@ -10,7 +10,6 @@ title: Formulieren
 <h2>Inloggen</h2>
 
 <form>
-    <img src="../../../assets/images/logo.png" class="logo_form">
 
 </form>
 
