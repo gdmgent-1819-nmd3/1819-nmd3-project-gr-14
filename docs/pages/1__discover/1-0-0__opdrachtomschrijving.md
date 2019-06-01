@@ -22,3 +22,5 @@ de populariteit ervan doet stijgen.</p>
 
 <p>De Kemmelberg is vooral bekend voor zijn sportieve imago maar kent ook veel culturele geschiedenis en verschillende monumenten met de daarbij horende verhalen, daarom is dit domein ideaal om ons project op uit te zetten en de verschillende gebeurtenissen in kaart te zetten met de wiha app !</p>
 
+<img src="./../../assets/images/kemmel.jpg" class="introimg">
+

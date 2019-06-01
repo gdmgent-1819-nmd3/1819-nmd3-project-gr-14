@@ -195,3 +195,85 @@ button:hover{
     font-size: 16px;
     background-color: white !important;
 }
+
+h3{
+    font-weight: 100;
+    margin-left: 3%;
+    font-size: 14pt;
+
+}
+
+.wit{
+    background-color: #33B568;
+    color:white;
+    width: 15%;
+}
+
+
+h4{
+    font-weight: 100;
+    margin-left: 3%;
+    font-size: 12pt;
+
+}
+
+.subwit{
+    background-color: #33B568;
+    color:white;
+    width: 13%;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-image:url("./../../assets/images/hamb.png");
+    background-size: 100%;
+    width:50px;
+    height: 50px;
+    margin-left: 3%;
+  }
+
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-top: 50px;
+    padding: 12px 16px;
+    z-index: 1;
+  }
+
+  .dropdown:hover{
+    background-image:url("./../../assets/images/hamb_down.png");
+    background-size: 100%;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    
+  }
+
+  .menu{
+      list-style-type: none;
+      padding: 5%;
+      margin-top: 10%;
+      color: #368958;
+      align-content: center;
+      width: 100%;
+  }
+
+  .menu a{
+      text-decoration: none !important;
+      color: #368958;
+
+  }
+
+  .menu a:hover{
+    text-decoration: none !important;
+    color: white;
+    background-color: #368958;
+    padding: 10%;
+
+}
