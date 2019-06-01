@@ -3,26 +3,41 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Personas opmaken.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 4.50
+  task: Research meerdere domeinen.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 6.50
+  task: Research Kemmelberg.
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 4.00
+  task: Interviews opstellen/afnemen.
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Conclusie interviews/doelgroep vaststellen.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Planning samenstellen.
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Brainstorm.
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: How might we questions.
+-
+  time: 3.00
+  task: Concept finetunen.
+-
+  time: 5.00
+  task: Paper prototyping.
+-
+  time: 9S.00
+  task: Ontwerpen en prototyping.
+-
+  time: 2.00
+  task: Coderen.
+-
+  time: 1.00
+  task: Presentatie voorbereiden.
