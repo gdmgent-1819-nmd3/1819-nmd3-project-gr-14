@@ -52,3 +52,16 @@ ul{
     width: 100%;
     margin-top: 5%;
 }
+
+.table{
+    width: 60%;
+    text-align: left;
+}
+
+
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}

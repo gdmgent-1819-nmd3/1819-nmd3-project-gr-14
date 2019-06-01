@@ -1,28 +1,52 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Jeroen    ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Proto personas opmaken.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Interviews opmaken.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 5.50
+  task: Research en interviews.
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Personas opmaken.
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.50
+  task: Planning samenstellen.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: How might we questions.
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Elevator pitch.
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Brainstorm (crazy 8).
+-
+  time: 4.50
+  task: Style tiles samenstellen.
+-
+  time: 9.00
+  task: Ontwerpen en prototyping.
+-
+  time: 12.00
+  task: Digitaal dossier opmaken.
+-
+  time: 5.00
+  task: Ontwerp herwerken.
+-
+  time: 6.00
+  task: UI styleguide coderen.
+-
+  time: 2.00
+  task: Finetunen.
+-
+  time: 1.00
+  task: Powerpoint samenstellen.
+-
+  time: 0.50
+  task: Presentatie voorbereiden.
