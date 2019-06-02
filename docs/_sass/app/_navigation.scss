@@ -7,14 +7,14 @@ $light: var(--light);
 $dark: var(--dark);
 
 .gdm-nav {
-  background-color: #f8fbff !important;
+  background-color: #368958 !important;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
 }
 
 .nav-link {
   position: relative;
-  color: #368958;
+  color: rgb(212, 211, 211);
 
   &::before {
     display: block;
@@ -29,7 +29,7 @@ $dark: var(--dark);
   }
 
   &.disabled {
-    color: #347952 !important;
+    color: rgb(253, 239, 239) !important;
     font-weight: bold !important;
   }
 }

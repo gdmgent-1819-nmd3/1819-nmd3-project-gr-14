@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Planning
 ---
+<img src="../../assets/images/plan.jpg" class="tile">
