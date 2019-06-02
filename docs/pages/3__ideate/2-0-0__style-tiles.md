@@ -18,7 +18,7 @@ title: Style Tiles
 
 ## Alternatief A
 
-<img src="../../assets/images/tile2.png" class="tile">
+<img src="../../assets/images/tile2.jpg" class="tile">
 
 ## Alternatief B
 
@@ -27,3 +27,7 @@ title: Style Tiles
 ## Alternatief C
 
 <img src="../../assets/images/tile4.png" class="tile">
+
+## Alternatief D
+
+<img src="../../assets/images/tile5.png" class="tile">
