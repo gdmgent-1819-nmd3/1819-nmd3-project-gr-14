@@ -38,7 +38,7 @@ We stelden deze vragen aan mensen in het domein zelf maar ook daarbuiten aan men
 
 <p>Een vaak terugkerende gedachtengang en mening is dat de parken en domeinen vaak meer te bieden hebben dan de meeste mensen weten. Ook merken we dat veel mensen binnen onze doelgroep een interactievere ervaring willen wanneer ze verschillende tentoonstellingen en rondleidingen bezoeken.</p>
 
-<p>Wat men misschien wat over het hoofd ziet binnen deze doelgroep is dat ook jongeren nog steeds zeer geïnteresseerd in cultuur en geschiedenis. Vaak is dit op een mider traditionele manier en uit deze passie zich in de vorm van games en films. Om hier op in te spelen zoeken we dus naar een manier om deze meer interactieve feel van games over te brengen in de app.</p> 
+<p>Wat men misschien wat over het hoofd ziet binnen deze doelgroep is dat ook jongeren nog steeds zeer geïnteresseerd zijn in cultuur en geschiedenis. Vaak is dit op een minder traditionele manier en uit deze passie zich in de vorm van games en films. Om hier op in te spelen zoeken we dus naar een manier om deze meer interactieve feel van games over te brengen in de app.</p> 
 
 <p>Een derde conclusie die we kunnen trekken is dat er vaak niet genoeg omkadering is rondom de verschillende uiteenlopende activiteiten in het park/ provinciale domeinen. Hier komt uiteraard ook bij kijken dat er vaak geen of weinig gidsen of rondleidingen zijn.</p>
 

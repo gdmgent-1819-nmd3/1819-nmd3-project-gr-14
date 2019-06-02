@@ -16,7 +16,7 @@ hij te spenderen aan koersen.</p>
 <p>Hij koerst al heel zijn leven in ploegverband en doet het
 ook graag. Voor hem is het een uitlaatklep en een manier
 om zijn zinnen te verzetten. Hij zoekt steeds naar langere
-routes en zo dus ook naar nieuwe uitdagingen. Anderzijd
+routes en zo dus ook naar nieuwe uitdagingen. Anderzijds
 probeert hij het contact met zijn vrienden niet te verliezen
 door geregeld samen culturele uitstappen te plannen.</p>
 
@@ -24,7 +24,7 @@ door geregeld samen culturele uitstappen te plannen.</p>
  <p>Overdag is ze calculator bij een bouwbedrijf en werkt ze
 mee aan vershillende projecten. Ze studeerde voor architect
 en heeft een creatieve kijk op de wereld. In haar vrije tijd is
-ze bezig met kunst. Ze schildert zelf en geeft thuis ook
+ze bezig met kunst. Zelft schildert ze graag en geeft thuis ook
 cursussen.</p>
 
 <p>Om ervaring op te doen hieromtrent gaat ze vaak op

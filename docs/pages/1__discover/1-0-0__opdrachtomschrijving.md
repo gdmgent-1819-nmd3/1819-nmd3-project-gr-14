@@ -9,12 +9,12 @@ title: Opdrachtomschrijving
 
 ## Inhoud
 
-<p>Om voor een meerwaarde te zorgen voor provinciale domeinen werken we een app uit die deze domeinen in kaart brengt en 
+<p>Om onze provinciale domeinen terug wat meer in het licht te zetten, werken we een app uit die deze domeinen in kaart brengt en 
 de populariteit ervan doet stijgen.</p>
 
-<p>Hier aan toegevoegd werken we aan een second screen dat steeds te vinden is in de verschillende parken en domeinen.</p>
+<p>Naast de app werken we aan een second screen dat steeds te vinden is in de verschillende parken en domeinen.</p>
 
-<p>Om de juiste werkwijze hiervoor mee te krijgen volgen we de stappen discover, define, ideate, prototype, implementation en deliver</p>
+<p>Om dit vlot te laten verlopen, volgen we de stappen discover, define, ideate, prototype, implementation en deliver</p>
 
 ## Domein
 
